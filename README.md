@@ -1,4 +1,4 @@
-## Sobre OPTO Sic Notícias download 19:32
+## Sobre OPTO Sic Notícias download 20:00
 <!--
 2021-10-30 vamos lá a "comment out" isto da edição:
 You can use the [editor on GitHub](https://github.com/rec2022/rec/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
@@ -9,6 +9,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Fazer downloads de vídeos da OPTO [opto.sic.pt](https://opto.sic.pt)
 ### Método
 Usar uma app comercial paga, que "tem obrigação" de funcionar com os sites de streaming que lhe são reportados pelos clientes... 
+
 Dentro do espírito "free", usar o "free trial" de 30 dias (com uma pequena astúcia para durar mais...) 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
