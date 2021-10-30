@@ -1,9 +1,10 @@
 ## Welcome to GitHub Pages
-
+{::comment}
+2021-10-30 vamos lá a "comment out" isto da edição:
 You can use the [editor on GitHub](https://github.com/rec2022/rec/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+{::comment}
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
