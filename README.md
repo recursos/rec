@@ -8,8 +8,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Objectivo
 Fazer downloads de vídeos da OPTO [opto.sic.pt](https://opto.sic.pt)
 ### Método
-Usar uma app comercial paga, que "tem obrigação" de funcionar com os sites de streaming que lhe são reportados pelos clientes...
-Dentro do espírito "free", usar o "free trial" de 30 dias (com uma pequena astúcia para durar mais...)
+Usar uma app comercial paga, que "tem obrigação" de funcionar com os sites de streaming que lhe são reportados pelos clientes... 
+Dentro do espírito "free", usar o "free trial" de 30 dias (com uma pequena astúcia para durar mais...) 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
