@@ -1,4 +1,4 @@
-## Sobre OPTO Sic Notícias download 13:05
+## Sobre OPTO Sic Notícias download 13:06
 <!--
 2021-10-30 vamos lá a "comment out" isto da edição:
 You can use the [editor on GitHub](https://github.com/rec2022/rec/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
@@ -7,7 +7,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 -->
 <!-- -->
 <style>
-  .downloads {
+  .a {
   display:none;
   }
 </style>
