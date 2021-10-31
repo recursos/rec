@@ -1,10 +1,15 @@
-## Sobre OPTO Sic Notícias download 13:00
+## Sobre OPTO Sic Notícias download 13:01
 <!--
 2021-10-30 vamos lá a "comment out" isto da edição:
 You can use the [editor on GitHub](https://github.com/rec2022/rec/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 -->
+<style>
+  .container {
+  display:none;
+  }
+</style>
 ### Objectivo
 Fazer downloads de vídeos da OPTO [opto.sic.pt](https://opto.sic.pt)
 ### Método
