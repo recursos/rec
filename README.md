@@ -14,6 +14,10 @@ Dentro do esp√≠rito "free", usar o "free trial" de 30 dias (com uma pequena ast√
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
+2021-10-31 usei:
+github:
+  is_project_page: false
+na tentativa de fazer desaparecer o "View in Github"
 ```markdown
 Syntax highlighted code block
 
