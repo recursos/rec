@@ -2,3 +2,7 @@ theme: jekyll-theme-midnight
 title: [The title of your site]
 description: [A short description of your site's purpose]
 show_downloads: false #["true" or "false" (unquoted) to indicate whether to provide a download URL]
+github:
+  zip_url: http://example.com/download.zip
+  another_url: another value
+
