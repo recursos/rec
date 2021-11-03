@@ -19,7 +19,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 github:
   is_project_page: false
 na tentativa de fazer desaparecer o "View in Github"
-```markdown
+
 
 Syntax highlighted code block
 
