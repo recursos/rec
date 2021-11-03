@@ -21,7 +21,6 @@ github:
 na tentativa de fazer desaparecer o "View in Github"
 ```markdown
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 Syntax highlighted code block
 
 # Header 1
