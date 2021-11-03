@@ -1,4 +1,4 @@
-## Sobre OPTO Sic Notícias download 14
+## Sobre OPTO Sic Notícias download 21
 <!--
 2021-10-30 vamos lá a "comment out" isto da edição:
 You can use the [editor on GitHub](https://github.com/rec2022/rec/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
@@ -20,6 +20,8 @@ github:
   is_project_page: false
 na tentativa de fazer desaparecer o "View in Github"
 ```markdown
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 Syntax highlighted code block
 
 # Header 1
