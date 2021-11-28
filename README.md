@@ -1,3 +1,5 @@
+* TOC
+{:toc}
 ## Sobre OPTO Sic Notícias download 19
 <!--
 2021-10-30 vamos lá a "comment out" isto da edição:
